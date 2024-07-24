@@ -1,1 +1,1 @@
-Welcome to John Laidler's Github
+Welcome to my Github portfolio.
